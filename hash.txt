@@ -1,0 +1,1 @@
+Once the program is run, it runs a set of tests for the main functions in the program

@@ -1,0 +1,7 @@
+This is a binary search tree program with 3 main functions being:
+
+insert
+delete
+find
+
+I have not included tests in my program however the main function allows the user to test the implementation of the 3 functions on a predefined list. 
